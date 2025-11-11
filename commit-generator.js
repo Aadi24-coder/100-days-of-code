@@ -89,4 +89,4 @@ setTimeout(() => {
             console.log('Successfully pushed all commits!');
         }
     });
-}, delay + 1000); // Push after all commits are done
+}, delay + 1000); // Push after all commits are done`
